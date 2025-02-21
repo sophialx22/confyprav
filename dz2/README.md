@@ -23,7 +23,8 @@
     <output_file>output.png</output_file> #файл, в который будет сохранён изображённый граф 
     <max_depth>3</max_depth> #максимальная глубина анализа зависимостей
     <repository_url>https://registry.npmjs.org/</repository_url> # Путь к git репозиторию, из которого будут извлечены данные о зависимостях
-</config> ```xml
+</config>
+xml```
 Пример использования
 
 Настройте конфигурацию в файле config.xml.
