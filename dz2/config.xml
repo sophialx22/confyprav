@@ -1,0 +1,7 @@
+<config>
+    <path_to_graph_tool>C:\Users\user\AppData\Roaming\npm\mmdc.cmd</path_to_graph_tool>
+    <package_name>config2</package_name>
+    <output_file>output.png</output_file>
+    <max_depth>3</max_depth>
+    <repository_url>https://registry.npmjs.org/</repository_url>
+</config>
