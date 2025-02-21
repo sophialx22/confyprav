@@ -25,11 +25,10 @@
     <repository_url>https://registry.npmjs.org/</repository_url> # Путь к git репозиторию, из которого будут извлечены данные о зависимостях
 </config>
 ``````
-Пример использования
+## Использование ##
 
-Настройте конфигурацию в файле config.xml.
-
-Запустите программу командой:
+<pre><code> git clone https://github.com/sophialx22/confyprav.git
+cd confyprav/dz2 </code></pre>
 
 bash
 Копировать
