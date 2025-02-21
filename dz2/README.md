@@ -71,6 +71,8 @@ graph TD;
 Запуск тестов:
 <pre><code>python -m pytest Test_GraphBuilder.py -v</code></pre>
 
+![Dependency Graph](image2.png)
+
 ## Структура проекта ##
 config2/
 ├── dependency_visualizer.py    # Основной модуль
