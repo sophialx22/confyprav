@@ -18,11 +18,11 @@
 ## Настройки config.xml ##
 ```xml
 <config>
-    <path_to_graph_tool>C:\Users\user\AppData\Roaming\npm\mmdc.cmd</path_to_graph_tool> # путь к Mermaid CLI
-    <package_name>config2</package_name> # имя пакета, для которого строится граф 
-    <output_file>output.png</output_file> # файл, в который будет сохранён изображённый граф 
-    <max_depth>3</max_depth> # максимальная глубина анализа зависимостей
-    <repository_url>https://registry.npmjs.org/</repository_url> # путь к git репозиторию, из которого будут извлечены данные о зависимостях
+    <path_to_graph_tool>C:\Users\user\AppData\Roaming\npm\mmdc.cmd</path_to_graph_tool>  # путь к Mermaid CLI
+    <package_name>config2</package_name>                                                 # имя пакета, для которого строится граф 
+    <output_file>output.png</output_file>                                                # файл, в который будет сохранён изображённый граф 
+    <max_depth>3</max_depth>                                                             # максимальная глубина анализа зависимостей
+    <repository_url>https://registry.npmjs.org/</repository_url>                         # путь к git репозиторию, из которого будут извлечены данные о зависимостях
 </config>
 ``````
 ## Использование ##
@@ -76,8 +76,8 @@ graph TD;
 ## Структура проекта ##
 <pre><code>
 config2/
-├── dependency_visualizer.py    # Основной модуль
-├── test_dependency_visualizer.py # Тесты
+├── GraphBuilder.py             # Основной модуль
+├── Test_GraphBuilder.py        # Тесты
 ├── config.xml                  # Конфигурационный файл
 ├── output.png                  # Сгенерированный граф
 └── README.md                   # Документация
