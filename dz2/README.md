@@ -83,5 +83,5 @@ config2/
 └── README.md                   # Документация
 </code></pre>
 
-## Исходный код ##
-[Исходный код](https://github.com/sophialx22/confyprav/blob/main/dz2/README.md)
+## Ссылки ##
+- [Исходный код](https://github.com/sophialx22/confyprav/blob/main/dz2/README.md)
