@@ -15,15 +15,15 @@
 3. <code>generate_mermaid_graph</code>: Генерирует граф зависимостей в формате Mermaid.
 4. <code>save_graph_as_png</code>: Конвертирует граф в изображение с помощью mermaid-cli и сохраняет его в формате PNG.
 
-##Настройки config.xml##
+## Настройки config.xml ##
 
-<pre><code><config>
+<pre><code> <config>
     <path_to_graph_tool>C:\Users\user\AppData\Roaming\npm\mmdc.cmd</path_to_graph_tool> #путь к Mermaid CLI
     <package_name>config2</package_name> #имя пакета, для которого строится граф 
     <output_file>output.png</output_file> #файл, в который будет сохранён изображённый граф 
     <max_depth>3</max_depth> #максимальная глубина анализа зависимостей
     <repository_url>https://registry.npmjs.org/</repository_url> # Путь к git репозиторию, из которого будут извлечены данные о зависимостях
-</config></code></pre>
+</config> </code></pre>
 Пример использования
 
 Настройте конфигурацию в файле config.xml.
