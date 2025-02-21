@@ -18,18 +18,31 @@
 ## Настройки config.xml ##
 ```xml
 <config>
-    <path_to_graph_tool>C:\Users\user\AppData\Roaming\npm\mmdc.cmd</path_to_graph_tool> #путь к Mermaid CLI
-    <package_name>config2</package_name> #имя пакета, для которого строится граф 
-    <output_file>output.png</output_file> #файл, в который будет сохранён изображённый граф 
-    <max_depth>3</max_depth> #максимальная глубина анализа зависимостей
-    <repository_url>https://registry.npmjs.org/</repository_url> # Путь к git репозиторию, из которого будут извлечены данные о зависимостях
+    <path_to_graph_tool>C:\Users\user\AppData\Roaming\npm\mmdc.cmd</path_to_graph_tool> # путь к Mermaid CLI
+    <package_name>config2</package_name> # имя пакета, для которого строится граф 
+    <output_file>output.png</output_file> # файл, в который будет сохранён изображённый граф 
+    <max_depth>3</max_depth> # максимальная глубина анализа зависимостей
+    <repository_url>https://registry.npmjs.org/</repository_url> # путь к git репозиторию, из которого будут извлечены данные о зависимостях
 </config>
 ``````
 ## Использование ##
 
-<pre><code> git clone https://github.com/sophialx22/confyprav.git
+1.Клонирование репозитория:
+<pre><code>git clone https://github.com/sophialx22/confyprav.git
 cd confyprav/dz2 </code></pre>
-
+2.Настройка конфигурации:
+Отредактируйте файл config.xml:
+```xml
+<config>
+    <path_to_graph_tool>C:\Users\user\AppData\Roaming\npm\mmdc.cmd</path_to_graph_tool> 
+    <package_name>config2</package_name> 
+    <output_file>output.png</output_file>
+    <max_depth>3</max_depth> 
+    <repository_url>https://registry.npmjs.org/</repository_url>
+</config>
+``````
+Запуск программы:
+<pre><code>python GraphBuilder.py </code></pre>
 bash
 Копировать
 Редактировать
