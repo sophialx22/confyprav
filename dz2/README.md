@@ -74,9 +74,11 @@ graph TD;
 ![Dependency Graph](image2.png)
 
 ## Структура проекта ##
+<pre><code>
 config2/
 ├── dependency_visualizer.py    # Основной модуль
 ├── test_dependency_visualizer.py # Тесты
 ├── config.xml                  # Конфигурационный файл
 ├── output.png                  # Сгенерированный граф
 └── README.md                   # Документация
+</code></pre>
