@@ -84,4 +84,4 @@ config2/
 </code></pre>
 
 ## Исходный код ##
-[Исходный код]([https://github.com/fedorio00/Isak62.23conf/tree/main/dz2#:~:text=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8,-%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%B4,-Isak62.23conf/dz2%20at](https://github.com/sophialx22/confyprav/tree/main/dz2))
+[Исходный код]([https://github.com/fedorio00/Isak62.23conf/tree/main/dz2#:~:text=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8,-%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%B4,-Isak62.23conf/dz2%20at](https://github.com/sophialx22/confyprav/tree/main/dz2)](https://github.com/sophialx22/confyprav/tree/main/dz2)
