@@ -84,7 +84,7 @@ config2/
 </code></pre>
 
 ## Исходный код ##
-[Исходный код]
+[Исходный код](https://github.com/sophialx22/confyprav/blob/main/dz2/README.md)
 
 
 https://github.com/sophialx22/confyprav/blob/main/dz2/README.md
